@@ -1,0 +1,5 @@
+employee_id,journey,distance_km,mode
+001,London-Frankfurt,300,flight
+002,London-Manchester,280,rail
+003,London-Paris,350,rail
+004,London-Berlin,500,flight
